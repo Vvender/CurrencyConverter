@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>icons/exchange.svg</file>
+    <file>icons/rotate-cw.svg</file>
+    <file>icons/chevron-down.svg</file>
+    <file>icons/folder.svg</file>
+    <file>icons/github.svg</file>
+    <file>icons/linkedin.svg</file>
+    <file>icons/mail.svg</file>
+    <file>icons/paperclip.svg</file>
+    <file>icons/x.svg</file>
+  </qresource>
+  <qresource prefix="flags">
+    <file>flags/cad.png</file>
+    <file>flags/gbp.png</file>
+    <file>flags/chf.png</file>
+    <file>flags/eur.png</file>
+    <file>flags/jpy.png</file>
+    <file>flags/rub.png</file>
+    <file>flags/usd.png</file>
+  </qresource>
+</RCC>
