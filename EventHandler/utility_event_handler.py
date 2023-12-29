@@ -1,9 +1,9 @@
-class EventHandler:
+class UtilityEventHandler:
     def __init__(self, app, ui):
         self.app = app
         self.ui = ui
 
-    def main_event_handler(self):
+    def utility_event_handler(self):
         try:
             sender = self.app.sender()
             # Check if the sender is the GitHub button
