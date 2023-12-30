@@ -1,3 +1,8 @@
+import webbrowser
+from PyQt5.QtCore import QUrl
+from PyQt5.QtGui import QDesktopServices
+
+
 class UtilityEventHandler:
     def __init__(self, app, ui):
         self.app = app
