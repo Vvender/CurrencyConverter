@@ -100,6 +100,13 @@ QComboBox{
     color: rgba(255,255,255,210);
     background-color: #0b1e3b;
     border-radius: 5px;
+    padding: 5px;  /* Add padding for better appearance */
+    text-align: center;  /* Center-align the text */
+}
+QComboBox QAbstractItemView {
+     color: rgba(255,255,255,210);  /* Set the color to white or any other color code */
+     background-color: #0b1e3b;  /* Set the background color to match the combobox */
+	text-align: center;  /* Center-align the text in the popup list items */
 }
 
 /* BUTTON STYLE */

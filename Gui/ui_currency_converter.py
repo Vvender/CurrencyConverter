@@ -673,6 +673,7 @@ class Ui_Currency(object):
         self.lbl_title_amount.setText(_translate("Currency", "AMOUNT"))
         self.lbl_title_buy.setText(_translate("Currency", "BUY"))
         self.btn_clear.setText(_translate("Currency", "Clear"))
+        """
         self.lbl_rate_eur.setText(_translate("Currency", "1.00"))
         self.lbl_rate_usd.setText(_translate("Currency", "1.00"))
         self.lbl_rate_gbp.setText(_translate("Currency", "1.00"))
@@ -687,6 +688,7 @@ class Ui_Currency(object):
         self.lbl_buy_gbp.setText(_translate("Currency", "1.00"))
         self.lbl_buy_jpy.setText(_translate("Currency", "1.00"))
         self.lbl_buy_eur.setText(_translate("Currency", "1.00"))
+        """
         self.lineEdit_amount_eur.setText(_translate("Currency", "1"))
         self.lineEdit_amount_usd.setText(_translate("Currency", "1"))
         self.lineEdit_amount_cad.setText(_translate("Currency", "1"))
