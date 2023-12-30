@@ -666,7 +666,6 @@ class Ui_Currency(object):
         self.lineEdit_amount_gbp.setValidator(int_validator)
         self.lineEdit_amount_rub.setValidator(int_validator)
         self.lineEdit_amount_usd.setValidator(int_validator)
-
         self.retranslateUi(Currency)
         QtCore.QMetaObject.connectSlotsByName(Currency)
 
